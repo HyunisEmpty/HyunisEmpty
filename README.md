@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hyun%20is%20Empty&fontSize=90)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=empty6004)](https://solved.ac/empty6004/)
 <!--
 **HyunisEmpty/HyunisEmpty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
